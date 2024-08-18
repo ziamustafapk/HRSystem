@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRSystem.Client", "HRSystem.Client\HRSystem.Client.csproj", "{0DCD2AF0-A548-4C2F-8B29-44458ECE24C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HRSystem.Server", "HRSystem.Server\HRSystem.Server.csproj", "{C35F13A9-E974-463B-9A8B-7F449D51AA96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DCD2AF0-A548-4C2F-8B29-44458ECE24C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCD2AF0-A548-4C2F-8B29-44458ECE24C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCD2AF0-A548-4C2F-8B29-44458ECE24C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCD2AF0-A548-4C2F-8B29-44458ECE24C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35F13A9-E974-463B-9A8B-7F449D51AA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35F13A9-E974-463B-9A8B-7F449D51AA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35F13A9-E974-463B-9A8B-7F449D51AA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35F13A9-E974-463B-9A8B-7F449D51AA96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC11E681-8947-4514-8ECF-F1A5D424AB4C}
+	EndGlobalSection
+EndGlobal
